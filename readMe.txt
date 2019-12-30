@@ -6,4 +6,4 @@ Git tracks changes of files.
 Git remote add origin https://github.com/jim-ding-git/learngit.
 Git push origin master.
 Creating a new branch is quick and simple.
-Add dev branch.
+Add dev branch no --no-ff.
